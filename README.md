@@ -9,7 +9,9 @@
 
 🇨🇳  English and Chinese keywords support;  
 
-💠  Figma native UI style.
+💠  Figma native UI style.💠  Figma native UI style;
+
+🚀  Continuously updated with the official website.
 
 ---
 
